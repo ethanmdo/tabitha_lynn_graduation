@@ -9,7 +9,7 @@ const GalleryPage = () => {
 
   // Generate array of 49 images
   const images = Array.from({ length: 49 }, (_, i) => ({
-    src: `/${i + 1}.jpg`,
+    src: `/${i + 1}_image.jpg`,
     alt: `Memory ${i + 1}`,
   }));
 
@@ -46,7 +46,7 @@ const GalleryPage = () => {
                 <div className="relative aspect-square w-full">
                   <Image
                     src={image.src}
-                    
+
                     alt={image.alt}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-110"
