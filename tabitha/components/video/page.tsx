@@ -38,7 +38,7 @@ const Video = ({ isOpen, onClose }: VideoProps) => {
         <div className="relative pb-[56.25%] h-0">
           <iframe
             className="absolute top-0 left-0 w-full h-full rounded-lg"
-            src="https://www.youtube.com/embed/louFL8pa8pk"
+            src="https://www.youtube.com/embed/pwqa8Yy4cJs"
             title="Tabitha Lynn Graduation Video"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
