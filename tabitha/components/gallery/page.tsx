@@ -29,7 +29,7 @@ const Gallery = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-brown-600 via-gold-500 to-brown-600 mx-auto mb-6 rounded-full"></div>
           <p className="font-inter text-lg text-brown-600 max-w-2xl mx-auto">
-            A collection of special moments and memories from your time at Brown
+            All images used throughout the graduation video
             University
           </p>
         </div>
