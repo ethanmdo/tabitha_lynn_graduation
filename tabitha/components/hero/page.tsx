@@ -27,7 +27,7 @@ const Hero = () => {
           </div> */}
 
           <h1 className="font-playfair text-5xl md:text-7xl lg:text-8xl font-bold text-brown-800 mb-6 leading-tight tracking-tight">
-            Congratulations,
+            Congratulations
             <span className="block text-gold-600 mt-2 bg-clip-text text-transparent bg-gradient-to-r from-gold-500 to-gold-700">
               Tabitha!
             </span>
