@@ -46,6 +46,7 @@ const GalleryPage = () => {
                 <div className="relative aspect-square w-full">
                   <Image
                     src={image.src}
+                    
                     alt={image.alt}
                     fill
                     className="object-cover transition-transform duration-500 group-hover:scale-110"
