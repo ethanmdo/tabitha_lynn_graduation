@@ -9,7 +9,7 @@ const GalleryPage = () => {
 
   // Generate array of 49 images
   const images = Array.from({ length: 49 }, (_, i) => ({
-    src: `/${i + 1}_image.jpg`,
+    src: `/${i + 1}.jpg`,
     alt: `Memory ${i + 1}`,
   }));
 
